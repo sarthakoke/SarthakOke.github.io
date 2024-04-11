@@ -363,8 +363,9 @@ p{
     color: white;
 }
 #projects .project-info h1{
-    font-size: 4rem;
+    font-size: 3rem;
     font-weight: 500;
+    text-transform: uppercase;
 }
 #projects .project-info h2{
     font-size: 1.8rem;
